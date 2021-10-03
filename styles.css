@@ -1,0 +1,19 @@
+.container{
+    max-width: 900px;
+    margin: auto;
+}
+.header img{
+    float: left;
+}
+.header_content{
+    padding-left: 515px;
+}
+.purpose li{
+    margin-bottom: 10px;
+}
+.contacts figure{
+    float: left;
+    
+}
+
+
